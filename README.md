@@ -6,6 +6,12 @@ This project aims to analyze the effectiveness of two marketing campaigns, Faceb
 
 As a marketing agency, our primary goal is to maximize the return on investment (ROI) for our clients' advertising campaigns. We've conducted two ad campaigns—one on Facebook and the other on AdWords. Our aim is to determine which platform delivers superior results in terms of clicks, conversions, and overall cost-effectiveness. Identifying the most effective platform will enable us to allocate resources more efficiently and optimize our advertising strategies to achieve better outcomes for our clients.
 
+## A/B Testing and Regression Analysis
+
+- **Hypothesis Testing (A/B Testing):** In the Hypothesis Testing section, A/B testing was used to compare the effectiveness of Facebook and AdWords advertising campaigns. The null hypothesis was that there is no difference in conversions between the two platforms, and the alternative hypothesis was that Facebook advertising generates more conversions than AdWords advertising.
+
+- **Regression Analysis:** In the Regression Analysis section, a linear regression model was used to establish a predictive relationship between ad clicks and conversions. This model was employed to forecast the expected number of conversions based on the number of clicks, providing insights for setting realistic campaign goals and optimizing ad spend.
+
 ## Key Features
 
 The dataset comprises performance data for two separate advertising campaigns conducted throughout 2019. It includes the following key features:
